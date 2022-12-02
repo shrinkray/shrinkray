@@ -13,4 +13,6 @@ I'm currently looking for work in UX Engineering.
 - 👯 I’m looking to collaborate on creating a more equitible web
 - 💬 Ask me about Technical Writing, Frontend, Fullstack, and Accessibility skills
 
+***
+
 <img src="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=dracula&line_height=32">
