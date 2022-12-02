@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**shrinkray/shrinkray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Greg aka Shrinkray
 
-Here are some ideas to get you started:
+I've built bespoke WordPress themes, now moving into a framework realm. I've built paid and fun sites in NextJS, Sveltekit, Ghost, some with headless CMS backends. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for work in UX Engineering. 
+
+***
+
+- 🔭 I’m currently working on AstroJS
+- 🌱 I’m currently learning Accessibility in the Frontend
+- 👯 I’m looking to collaborate on creating a more equitible web
+- 💬 Ask me about Technical Writing, Frontend, Fullstack, and Accessibility skills
+
+https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=dracula&line_height=32
