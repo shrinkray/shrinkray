@@ -10,12 +10,12 @@ I'm currently looking for work in UX Engineering.
 
 ### Focused to learn ...
 
-**Astro, React, Accessiblity, and Typescript by through various exercies and building project sites and coursework**
+**Astro, Sveltekit, React, Accessiblity, and Typescript (not in that order) through various exercies and building project sites, experimentation, and coursework**
 
-- 🔭 I’m working on a portfolio site, [ShrinkrayLabs](https://shrinkray-labs.vercel.app/) and a code exercises site called DevCharms both in AstroJS
+- 🔭 I’m working on a portfolio site, [ShrinkrayLabs](https://www.shrinkraylabs.com/) and a code exercises site called [DevCharms](https://www.devcharms.com) both in AstroJS
 - 🌱 I’m learning [Practical Accessibility](https://practical-accessibility.today/) testing with screen readers 
 - 👯 Let's work together to build an equitible web
-- 💬 Ask me about Technical Writing, Frontend, Design Systems, and Accessibility skills
+- 💬 Ask me about Frontend, Design Systems, and Accessibility skills
 
 ***
 
