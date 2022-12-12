@@ -29,17 +29,17 @@ I've built and managed bespoke WordPress themes, migrated, and hosted several si
 
 <p align="left">
 <a href="https://codepen.io/shrinkray" target="blank"><img align="center" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="Shrinkray's Codepen Account" /></a>
-<a href="https://dev.to/shrinkray" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Shrinkray's Dev.to Account"/></a>
+<a href="https://dev.to/shrinkray" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-FF5D01.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Shrinkray's Dev.to Account"/></a>
 </p>
 
 ### Languages and Tools:
 
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/svelte.svg?style=for-the-badge&logo=Svelte&logoColor=white" alt="Svelte">
-<img src="https://img.shields.io/badge/Rootssage.svg?style=for-the-badge&logo=rootssage&logoColor=white" alt="Roots Sage">
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="TailwindCSS">
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
 </p>
+
+[![Sparkline](https://stars.medv.io/shrinkray/badges.svg)](https://stars.medv.io/shrinkray/badges)
+
