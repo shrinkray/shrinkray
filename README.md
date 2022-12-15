@@ -23,7 +23,7 @@ I've built and managed bespoke WordPress themes, migrated, and hosted several si
 <details>
   <summary>Github Stats ... </summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=dracula&line_height=32">
+    <img src="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&line_height=32">
   </p>
 </details>
 
