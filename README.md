@@ -20,19 +20,19 @@ I've built and managed bespoke WordPress themes, migrated, and hosted several si
 ***
 
 
-<detail>
+<details>
   <summary>Github Stats ... </summary>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=dracula&line_height=32">
-</p>
-</detail>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  </p>
+</details>
 
-<detail>
+<details>
   <summary>Language Stats ... </summary>
-<p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=dracula&line_height=32](https://wakatime.com/share/@Shrinkray/55fdfac9-49e8-4569-b266-a7747d912982.svg)" height="300">
-</p>
-</detail>
+  <p align="center">
+    <img src="https://wakatime.com/share/@Shrinkray/55fdfac9-49e8-4569-b266-a7747d912982.svg" height="300">
+  </p>
+</details>
 
 ### Connect with Me
 
