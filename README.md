@@ -15,7 +15,7 @@ I've built and managed bespoke WordPress themes, migrated, and hosted many sites
 - 🔭 I’m working on a new portfolio site, [ShrinkrayLabs](https://www.shrinkraylabs.com/) and a code exercises site called [DevCharms](https://www.devcharms.com) both in AstroJS. 
 - 🌱 I’m learning [Practical Accessibility](https://practical-accessibility.today/) testing with screen readers 
 - 👯 Let's work together to build an equitible web
-- 💬 Ask me about Frontend, Design Systems, and Accessibility skills
+- 💬 Ask me about Frontend, Design Systems, and Accessibility Services
 
 ***
 
