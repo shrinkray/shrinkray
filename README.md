@@ -2,7 +2,7 @@
 
 ## I'm Greg aka Shrinkray
 
-I've built and managed bespoke WordPress themes, migrated, and hosted several sites. Now gravitating into the seductive framework UI/UX realm. Over the recent years I've built sites and contributed to projects in NextJS, Sveltekit, Ghost, and experimented with headless CMS backends like WordPress, Forestry, Strapi, Storyblok and HyGraph. I love working in web performance and pushing sites to improve scoring in Lighthouse and WebPageTest. 
+I've built and managed bespoke WordPress themes, migrated, and hosted many sites. Now gravitating into the seductive framework UI/UX realm. Over the recent years I've built sites and contributed to projects in NextJS, Sveltekit, Ghost, and experimented with headless CMS backends like WordPress, Forestry, Strapi, Storyblok and HyGraph. I love working in web performance and pushing sites to improve scoring in Lighthouse and WebPageTest. 
 
 **I'm currently looking for work in UX Engineering.** 
 
@@ -50,6 +50,7 @@ I've built and managed bespoke WordPress themes, migrated, and hosted several si
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=timber&logoColor=white" alt="Timber">
   <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
