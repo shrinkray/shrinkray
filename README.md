@@ -4,16 +4,16 @@
 
 I've built and managed bespoke WordPress themes, migrated, and hosted many sites. Now gravitating into the seductive framework UI/UX realm. Over the recent years I've built sites and contributed to projects in NextJS, Sveltekit, Ghost, and experimented with headless CMS backends like WordPress, Forestry, Strapi, Storyblok and HyGraph. I love working in web performance and pushing sites to improve scoring in Lighthouse and WebPageTest. 
 
-**I'm currently looking for work in UX Engineering.** 
+**I'm currently working in UX Engineering and Project Management.** 
 
 ***
 
-### Focused to learn ...
+### Focused to extend knowledge ...
 
-**Astro, Sveltekit, React, Accessiblity, and Typescript (not in that order) through various exercies and building project sites, experimentation, and coursework**
+**Astro, Sveltekit, Accessiblity, and a little Typescript through various exercies and building project sites, experimentation, and coursework**
 
 - 🔭 I’m working on a new portfolio site, [ShrinkrayLabs](https://www.shrinkraylabs.com/) and a code exercises site called [DevCharms](https://www.devcharms.com) both in AstroJS. 
-- 🌱 I’m learning [Practical Accessibility](https://practical-accessibility.today/) testing with screen readers 
+- 🌱 Applying [Practical Accessibility](https://practical-accessibility.today/) course 
 - 👯 Let's work together to build an equitible web
 - 💬 Ask me about Frontend, Design Systems, and Accessibility Services
 
