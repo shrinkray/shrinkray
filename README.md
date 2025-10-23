@@ -2,7 +2,7 @@
 
 ## I'm Greg aka Shrinkray, I'm a UX and Performance Engineer
 
-I've built and managed bespoke WordPress themes, migrated, and hosted many sites. Now gravitating into the seductive framework UI/UX realm. Over the recent years I've built sites and contributed to projects in NextJS, Sveltekit, Ghost, Astro, and experimented with headless CMS backends like WordPress, Forestry, Strapi, Storyblok and HyGraph. I love working in web performance for coninuious improvement. 
+I've built and managed bespoke WordPress themes, migrated, and hosted many sites. Now gravitating into the seductive framework UI/UX realm. Over the recent years I've built sites and contributed to projects in NextJS, Sveltekit, Ghost, Astro, and experimented with headless CMS backends like WordPress, Forestry, Strapi, Storyblok and HyGraph. I love working in web performance for continuous improvement. 
 
 **I'm currently working in UX Engineering and Project Management.** 
 
