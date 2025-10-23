@@ -8,6 +8,17 @@ I've built and managed bespoke WordPress themes, migrated, and hosted many sites
 
 ***
 
+### Community Projects
+
+
+It's been an honor to serve as an organizer for Google Developer Groups (GDG).
+
+When one of the Midwest GDGs put on an event, I make the effort to serve and help where I can, whether offering a talk or helping in promotion and on the website. This year, I committed to helping friend, Dave Koziol on his plan to run his biggest GDG Devfest event. Myself along with a few other volunteers took over the previous year's ReactJS website over from some college kids and rebuilt it into an attractive and accessible site (scoring 100% with Dequeue tools and the Polypane browser).
+
+  **[Michigan Devfest](https://midevfest.com)**
+
+***
+
 ### Focused to extend knowledge ...
 
 **Astro, Sveltekit, Accessiblity, and a little Typescript through various exercies and building project sites, experimentation, and coursework**
