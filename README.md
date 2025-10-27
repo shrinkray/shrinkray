@@ -30,19 +30,8 @@ When one of the Midwest GDGs put on an event, I make the effort to serve and hel
 
 ***
 
-<p>
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=dark&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=synthwave"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=synthwave" />
-</picture>
-</p>
+## Github Stats 
+<p>My GitHub profile shows an active use of multiple programming languages across private and public repos. Contributions include contributions, commits, pull-requests, and other stats summarized in the counts. I lean-in on delievering accessible, well formed, and readable code which others may encounter. </p><p>If you are looking for an experienced teammate to augment and fill out a frontend spot, give me a shout. As a freelance consultant my availability fluxuates, but am always looking to join a team. I am not afraid to speak up for accessibility and take criticism with an open mind. </p>
 
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=synthwave">
@@ -64,7 +53,7 @@ When one of the Midwest GDGs put on an event, I make the effort to serve and hel
    
 
 
-### Connect with Me
+## Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gregraymiller/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-21759B.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Let's connect!" /></a>
