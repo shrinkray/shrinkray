@@ -30,20 +30,39 @@ When one of the Midwest GDGs put on an event, I make the effort to serve and hel
 
 ***
 
+<p>
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=dark&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=synthwave"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=synthwave" />
+</picture>
+</p>
 
-<details>
-  <summary>Github Stats ... </summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&line_height=32">
-  </p>
-</details>
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=shrinkray&hide=stars&show_icons=true&theme=synthwave">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinkray&layout=donut&theme=synthwave" alt="Shrinkray's Top Languages" />
+     
+   </p>
 
-<details>
-  <summary>Language Stats ... </summary>
   <p align="center">
-    <img src="https://wakatime.com/share/@Shrinkray/55fdfac9-49e8-4569-b266-a7747d912982.svg" height="300">
-  </p>
-</details>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinkray&theme=synthwave" alt="Shrinkray's GitHub streak" />
+   <!-- 
+    <img src="https://wakatime.com/share/@Shrinkray/55fdfac9-49e8-4569-b266-a7747d912982.svg" height="400" >
+    <img src="https://wakatime.com/share/@Shrinkray/55fdfac9-49e8-4569-b266-a7747d912982.svg" height="400" >
+   -->
+   </p>
+   <p align="center">
+    
+   
+   </p>
+   
+
 
 ### Connect with Me
 
@@ -72,6 +91,7 @@ When one of the Midwest GDGs put on an event, I make the effort to serve and hel
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/Figma-FF0000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Penpot-FFFFFF?style=for-the-badge&logo=penpot&logoColor=black" alt="Penpot">
+  <img src="https://img.shields.io/badge/VScode-362d59?style=for-the-badge&logo=vscode&logoColor=white" alt="VSCode IDE">
   <img src="https://img.shields.io/badge/Cursor-47b41f?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE">
   <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="phpStorm">
   
