@@ -4,6 +4,8 @@
 
 I build and manage bespoke WordPress themes, migrated, and hosted many sites. Now gravitating into the seductive framework UI/UX realm. Over the recent years I've built sites and contributed to projects in NextJS, Sveltekit, Ghost, React, Astro, and experimented with headless CMS backends like WordPress, Forestry, Strapi, Storyblok and HyGraph. I love working in accessiblity and web performance for continuous improvement. 
 
+If you are a frameworks person who needs to build something in WordPress, checkout [FlyntWP](https://github.com/Flyntwp). The components build experience is similar to something like NextJS, IMO. And unlike the frameworks, with ACFPro, you design the UI/UX experience in the backend. Templating is similar to [CraftCMS](https://github.com/craftcms), where they also use Timber/Twig. Of course it adds to the time but the tools and deliverables you have with this means creating something that does not rely conflicting UI or asking your client to learn a little CSS using page builders like Elementor. 
+
 **I'm currently working in UX Engineering and Project Management.** 
 
 ***
